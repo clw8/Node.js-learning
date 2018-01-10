@@ -1,4 +1,4 @@
-This repo is for logging my progress as I learn Node.js.
+//This repo is for logging my progress as I learn Node.js.
 
 let skillsLearnt = {
   'commandLineNotesApp':['API basics- using Yarg, Lodash, OS and FS', 'Basic JSON', 'Tertinary operator and arrow functions'],
